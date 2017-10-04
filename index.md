@@ -1,1 +1,1 @@
-[Bike Commuting Recommended Gear](bike-commuting-gear.md)
+[Bike Commuting Recommended Gear](bike-commuting-gear)

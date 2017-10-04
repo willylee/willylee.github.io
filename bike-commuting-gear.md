@@ -1,12 +1,12 @@
-=Bike Communti Gear=
+#Bike Communting Gear
 
-==Essentials==
+##Essentials
 
 A bike
 Helmet
 Lock
 
-==Almost essentials==
+##Almost essentials
 
 Rack
 Lights
