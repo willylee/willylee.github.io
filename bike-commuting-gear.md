@@ -19,3 +19,8 @@
 - Bag
   [Banjo Brothers Pannier Backpack](http://banjobrothers.com/products/current/panniers/convertible-waterproof-pannier-backpack/) is amazing and reasonably priced to boot.
 - Tubes and knowledge
+
+## Luxuries
+
+- Dynamo Lights
+  Holy cow, I love dynamo lights. You never have to worry about battery charges and modern ones hardly feel like they slow you down at all. Talk to a bike shop about getting a build. Expect it to cast a couple hundred depending on how nice you go.
