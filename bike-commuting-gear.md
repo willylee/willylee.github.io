@@ -2,14 +2,14 @@
 
 ## Essentials
 
-A bike
-Helmet
-Lock
+- [ ] A bike
+- [ ] Helmet
+- [ ] Lock
 
 ## Almost essentials
 
-Rack
-Lights
-Fenders
-Bag
-Tubes and knowledge
+- [ ] Rack
+- [ ] Lights
+- [ ] Fenders
+- [ ] Bag
+- [ ] Tubes and knowledge
