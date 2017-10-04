@@ -14,7 +14,8 @@
 - Rack
   I love the [Axiom Streamline Disc DLX](http://www.axiomgear.com/products/racks/streamliner-racks/streamliner-disc-dlx/). Fits most bikes easily, sits back a tiny bit so you don't kick your bag.
 - Lights
-  [Light in Motion Urban](http://www.lightandmotion.com/choose-your-light/urban) is a great line of front lights. Any rear light is fine.
+  [Light in Motion Urban](http://www.lightandmotion.com/choose-your-light/urban) is a great line of front lights. Any rear light is fine. I have [this](https://www.planetbike.com/store/superflash-usb-bike-tail-light.html)
 - Fenders
 - Bag
+  [Banjo Brothers Pannier Backpack](http://banjobrothers.com/products/current/panniers/convertible-waterproof-pannier-backpack/) is amazing and reasonably priced to boot.
 - Tubes and knowledge
